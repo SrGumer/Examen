@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factoriales>
+  <factorial de="1">1</factorial>
+  <factorial de="2">2</factorial>
+  <factorial de="3">6</factorial>
+  <factorial de="4">24</factorial>
+  <factorial de="5">120</factorial>
+  <factorial de="6">720</factorial>
+</factoriales>
